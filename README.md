@@ -1,7 +1,9 @@
 # os-project
+made by
 abeer mourtaja 220210406
 Tasneem algazali 220211910
 taghreed alqudwa 
+
 #Shell definition 
 #A shell is a command-line interpreter that enables Linux and Unix users to interact with #their operating systems using command-line interfaces. This type of program allows users to #effectively and directly communicate with their operating systems.
 
